@@ -4,6 +4,8 @@
 
 The primary objective of this competition is to develop predictive models for estimating job salaries based on postings from websites in the United States. Participants are tasked with leveraging artificial intelligence and machine learning techniques to analyze and model job-related data effectively.
 
+Link: https://www.kaggle.com/competitions/salary-prediction-for-job-postings
+
 ## Repository Contents
 
 Data: The data available for the competition.
